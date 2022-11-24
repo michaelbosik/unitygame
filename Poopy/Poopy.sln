@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{afbdb965-3b51-7a3c-0b30-6385d7010968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiptideNetworking", "RiptideNetworking.csproj", "{42ba782b-66f2-cda8-2455-3c8373ad489e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{35d68bf2-ca88-6ffd-9aed-b201a77524b2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI", "UnityEditor.UI.csproj", "{ac8ccfb7-bb16-700f-6851-24d89c2c182d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{afbdb965-3b51-7a3c-0b30-6385d7010968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{afbdb965-3b51-7a3c-0b30-6385d7010968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ba782b-66f2-cda8-2455-3c8373ad489e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ba782b-66f2-cda8-2455-3c8373ad489e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35d68bf2-ca88-6ffd-9aed-b201a77524b2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35d68bf2-ca88-6ffd-9aed-b201a77524b2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ac8ccfb7-bb16-700f-6851-24d89c2c182d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ac8ccfb7-bb16-700f-6851-24d89c2c182d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
